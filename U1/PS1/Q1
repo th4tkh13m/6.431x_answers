@@ -1,0 +1,67 @@
+In this problem, you are given descriptions in words of certain events (e.g., "at least one of the events A,B,C occurs"). For each one of these descriptions, identify the correct symbolic description in terms of A,B,C from Events E1-E7 below. Also identify the correct description in terms of regions (i.e., subsets of the sample space Ω) as depicted in the Venn diagram below. (For example, Region 1 is the part of A outside of B and C.)
+
+3 circles, at the top-left, top-right, and center-bottom, overlap with each other. The interior of the top-left circle is labeled A; the interior of the top-right circle is labeled B; and the interior of the bottom-center circle is labeled C. All 3 circles overlap in a center region labeled region 4. Moreover, each pair of circles overlap: the top two circles (A and B) overlap in regions 2 and 4; the right two circles (B and C) overlap in regions 6 and 4; and the left two circles (A and C) overlap in regions 5 and 4. Finally, the region inside the top left circle (A) but outside both other circles is labeled region 1; the region inside the top right circle (B) but outside both other circles is labeled 3; the region inside the bottom circle (C) but outside both other circles is labeled region 7. These 3 circles are placed within a rectangle labeled Omega; the region inside this rectangle but outside all 3 circles is labled region 8.
+Symbolic descriptions:
+
+Event E1: A∩B∩C
+
+Event E2: (A∩B∩C)c
+
+Event E3: A∩B∩Cc
+
+Event E4: B∪(Bc∩Cc)
+
+Event E5: Ac∩Bc∩Cc
+
+Event E6: (A∩B)∪(A∩C)∪(B∩C)
+
+Event E7: (A∩Bc∩Cc)∪(Ac∩B∩Cc)∪(Ac∩Bc∩C)
+
+
+At least two of the events A, B, C occur.
+
+Event E6
+
+Regions: 2 4 5 6
+
+
+At most two of the events A, B, C occur.
+
+Event E2
+
+Regions: 1 2 3 5 6 7 8
+
+
+None of the events A, B, C occurs.
+
+Event E5 
+
+Region: 8
+
+
+All three events A, B, C occur.
+
+Event E1
+
+Region: 4
+
+
+Exactly one of the events A, B, C occurs.
+
+Event E7
+
+Regions: 1 3 7
+
+
+Events A and B occur, but C does not occur.
+
+Event E3
+
+Region: 2
+
+
+Either (i) event B occurs, or (ii) neither B or C occurs.
+
+Event E4
+
+Regions: 1 2 3 4 6 8
