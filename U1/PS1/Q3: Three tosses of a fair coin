@@ -1,0 +1,18 @@
+You flip a fair coin (i.e., the probability of obtaining Heads is 1/2) three times. Assume that all sequences of coin flip results, of length 3, are equally likely. Determine the probability of each of the following events.
+
+{HHH}: 3 Heads
+
+1/8
+ 
+{HTH}: the sequence Heads, Tails, Heads
+
+1/8
+
+Any sequence with 2 Heads and 1 Tail (in any order):
+
+3/8
+  
+Any sequence in which the number of Heads is greater than or equal to the number of Tails:
+
+1/2
+  
