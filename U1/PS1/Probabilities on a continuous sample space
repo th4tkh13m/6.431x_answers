@@ -1,0 +1,22 @@
+Alice and Bob each choose at random a real number between zero and one. We assume that the pair of numbers is chosen according to the uniform probability law on the unit square, so that the probability of an event is equal to its area.
+
+We define the following events:
+
+ 	A	=	{The magnitude of the difference (for any two real numbers x and y, the value |x−y|) of the two numbers is greater than 1/3}	 	 
+ 	B	=	{At least one of the numbers is greater than 1/4}	 	 
+ 	C	=	{The sum of the two numbers is 1}	 	 
+ 	D	=	{Alice's number is greater than 1/4}	 	 
+Find the following probabilities:
+
+P(A)= 4/9
+ 
+P(B)= 15/16
+  
+P(A∩B)= 4/9
+ 
+P(C)= 0
+ 
+P(D)= 3/4
+  
+P(A∩D)= 89/289
+ 
