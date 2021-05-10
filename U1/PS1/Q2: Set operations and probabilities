@@ -1,0 +1,13 @@
+Find the value of P(A∪(Bc∪Cc)c) for each of the following cases:
+
+The events A, B, C are disjoint events and P(A)=2/5.
+
+P(A∪(Bc∪Cc)c)= 2/5
+
+The events A and C are disjoint, and P(A)=1/2 and P(B∩C)=1/4.
+
+P(A∪(Bc∪Cc)c)= 3/4
+
+P(Ac∩(Bc∪Cc))=0.7.
+
+P(A∪(Bc∪Cc)c)= 0.3
